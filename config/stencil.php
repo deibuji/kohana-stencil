@@ -13,5 +13,5 @@ return array
 	'default_template'		=> 'application',
 	'default_styles'		=> array(),
 	'default_scripts'		=> array(),
-	'auto_render'			=> TRUE,	
+	'auto_render'			=> TRUE,
 );
